@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NewsApp</string>
+    <string name="stories_to_read">Stories to read</string>
+    <string name="logo">logo</string>
+    <string name="more">more</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="no_data">No Data</string>
 </resources>

@@ -5,6 +5,9 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/gradle.xml
+/.idea/vcs.xml
+/.idea/kotlinc.xml
+/*.zip
 .DS_Store
 /build
 /captures

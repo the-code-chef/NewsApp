@@ -3,4 +3,18 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTex">#585858</color>
+    <color name="colordevider">#64dad8d8</color>
+    <color name="colorblue">#4c71f5</color>
+    <color name="colorSub">#b0afaf</color>
+
+    <color name="listsub1">#7b7b7b</color>
+    <color name="listsub2">#9e9e9e</color>
+    <color name="listtext">#585858</color>
+    <color name="f2f2f2">#f2f2f2</color>
+    <color name="db4437">#db4437</color>
+    <color name="text_color">#757575</color>
+    <color name="colorDivider">#00000000</color>
+    <color name="fff">#fff</color>
 </resources>
