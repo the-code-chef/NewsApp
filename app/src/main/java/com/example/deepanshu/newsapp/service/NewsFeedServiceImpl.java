@@ -76,9 +76,7 @@ public class NewsFeedServiceImpl extends AsyncTaskLoader<List<NewsFeed>> {
                             itemJsonObject.getString(TITLE),
                             itemJsonObject.getString(SECTION_NAME),
                             itemJsonObject.getString(WEB_URL),
-                            itemJsonObject.getString(PUBLICATION_DATE),
-                            itemJsonObject.getString(API_URL),
-                            itemJsonObject.getBoolean(IS_HOSTED)
+                            itemJsonObject.getString(PUBLICATION_DATE)
                     ));
                 }
             } else {
